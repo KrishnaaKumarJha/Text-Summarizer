@@ -1,6 +1,3 @@
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mohit-kundu"><a class="LI-simple-link" href='https://in.linkedin.com/in/mohit-kundu?trk=profile-badge'>Mohit Kundu</a></div>
-
-
 # Text-Summarization
 <img src="https://github.com/favicon.ico" width="48">
 
@@ -14,8 +11,6 @@ There are two general approaches to automatic summarization:  Extraction and Abs
 Research to date has focused primarily on extractive methods, which are appropriate for image collection summarization and video summarization.
 
 In this Jupyter notebook, TextRank algorithm for extractive text summarization is implemented using Google's PageRank search algorithm to generate corelations among sentences.
-
-<img src="https://github.com/m0-k1/Text-Summarization/blob/master/images/nlp.png">
 
 ## Libraries Used
 - [Numpy](http://www.numpy.org)
